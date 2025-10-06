@@ -1,2 +1,2 @@
-# birkbeck coursework - HTML/JSOn/Node.js/Javascript Project
+# birkbeck coursework - HTML/JSON/Node.js/Javascript Project
 Birkbeck Coursework
